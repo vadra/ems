@@ -17,6 +17,7 @@ public class EmsApplication {
 	@PostConstruct
 	public void init() {
 		logger.info("Initialised...");
+		logger.info("Initialised...2");
 	}
 
 	public static void main(String[] args) {
