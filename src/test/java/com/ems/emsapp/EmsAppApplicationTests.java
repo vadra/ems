@@ -15,7 +15,7 @@ class EmsAppApplicationTests {
 	
 
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		logger.info("test case ececuted...");
 		assertThat(true);
 	}
